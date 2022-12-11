@@ -22,6 +22,12 @@ I have been interested in software testing for a few months. My goal is to devel
 # BOOKS 
 * R. Smilgin - "Zawód tester"
 * K. Pawłowska & N. Pawlak - "Podróż przez świat testowania"
+# BLOGS
+* https://testuj.pl/blog/
+* https://testerzy.pl/
+* https://remigiuszbednarczyk.pl/portfolio-testera
+* https://testerka.pl/
+* https://www.toniebug.pl/
 # MY PROJECTS
 * Defect Reports
 * Test Reports

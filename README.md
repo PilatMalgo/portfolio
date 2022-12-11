@@ -8,9 +8,12 @@ I have been interested in software testing for a few months. My goal is to devel
 * Jira, Confluence, Zephyr
 * Test Rail
 * Google Docs, MS Office
+* GitHub
+* Visual Studio Code, Brackets
 * Knowledge ISTQB
 * HTML, CSS
 * Java Script
+* Adobe LightRoom, Adobe Photoshop
 # CERTIFICATES
 * 2022 Testing Academy (basics of manual software, testuj.pl)
 * 2022 SQL course (basics, testuj.pl

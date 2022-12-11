@@ -19,4 +19,4 @@ I have been interested in software testing for a few months. My goal is to devel
 * 2022 SQL course (basics, testuj.pl)
 * 2022 Web developer in 15 days (Udemy)
 * 2019 Frontend Developer: zakres HTML, CSS, BOOTSTRAP 4, SASS, LESS, JAVASCRIPT,  ECMASCRIPT, WEBAPI, AJAX, JQUERY, REACT, JSX, VIRTUAL DOM, REDUX (Future Collars)
-
+# MY PROJECTS

@@ -35,5 +35,5 @@ I have been interested in software testing for a few months. My goal is to devel
 # MY PROJECTS
 * Defect Reports
 * Test Reports
-* Test cases
+* Test Cases
 

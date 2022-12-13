@@ -22,6 +22,7 @@ I have been interested in software testing for a few months. My goal is to devel
 # BOOKS 
 * R. Smilgin - "Zawód tester"
 * K. Pawłowska & N. Pawlak - "Podróż przez świat testowania"
+* P. Baszura - "U mnie działa. Język branży IT"
 # BLOGS
 * https://testuj.pl/blog/
 * https://testerzy.pl/

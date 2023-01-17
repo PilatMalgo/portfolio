@@ -29,7 +29,7 @@ I have been interested in software testing for a few months. My goal is to devel
 * https://remigiuszbednarczyk.pl/portfolio-testera
 * https://testerka.pl/
 * https://www.toniebug.pl/
-# Webinary, Meetupy
+# Webinars, Meetupy
 * girls.js Kraków 2019
 * II Eycja Konferencji Krakowskie Dni Informatyki 2022
 # MY PROJECTS
